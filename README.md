@@ -25,4 +25,3 @@ The dataset used is the **Covertype (UCI)** dataset, which is a popular benchmar
 
 ---
 
-## 📂 Repository Structure
